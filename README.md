@@ -1,4 +1,7 @@
 # intl-task
+
+# on branch [finished-task](https://github.com/yarossia/intl-task/tree/finished-task) task is completed but after provided time for task overed
+
 To run back-end server u need - ```yarn dev-server``` you can start the server, before you need to install dependencies. </br>
 
 Time was limited so what is ready: project boilerplate with typescript validation and koa as main library for back-end,
