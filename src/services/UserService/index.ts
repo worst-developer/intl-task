@@ -43,6 +43,7 @@ router
   }
 })
 
+// I know that for this functionality must be another service, I prefer to use service oriented arch, that every functionality part is separeted as a services with helpers
 const fetchData = async (id:number, age:number, url:string, type:string) => {
   const res = await fetch(`${url}/${id}`, {
     method: type,
