@@ -14,9 +14,11 @@ req examle:
 type: POST
 localhost:5555/batch
 
-{
+```
+{ 
 	"verb": "GET",
 	"url": " https://guesty-user-service.herokuapp.com/user",
 	"age": 9,
 	"ids": ["ja2S-hs81-ksn3-iQI9","ja2S-hs81-ksn3-iQI9","ja2S-hs81-ksn3-iQI9"]
 }
+```
