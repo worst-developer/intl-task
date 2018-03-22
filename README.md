@@ -11,7 +11,7 @@ so I can easily finish it in additional hour.
 
 req examle: 
 
-type: POST
+type: POST </br>
 localhost:5555/batch
 
 ```
